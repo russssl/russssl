@@ -3,7 +3,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-russssls-projects.vercel.app/api?username=russssl&theme=transparent&show=prs_merged&show_icons=true&icon_color=2d8c4e&rank_icon=percentile)<br/>
 ![](https://streak-stats.demolab.com?user=russssl&theme=vision-friendly-dark&exclude_days=Sun%2CSat&card_width=300&ring=7A64EB&currStreakLabel=7A64EB&excludeDaysLabel=7A64EB&sideLabels=7A64EB&sideNums=7A64EB&stroke=000000)<br/>
-![](github-readme-stats-russssls-projects.vercel.app/api/top-langs/?username=russssl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-russssls-projects.vercel.app/api?username=russssl&theme=dark&show=prs_merged&show_icons=true&icon_color=2d8c4e&rank_icon=percentile)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=russssl&icon=0&color=0)](https://visitcount.itsvg.in)
